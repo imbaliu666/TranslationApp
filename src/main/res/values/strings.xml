@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Test</string>
+    <string name="translation">点击翻译</string>
+    <string name="restore">还原</string>
+    <string name="enZH">英译中</string>
+    <string name="ZHen">中译英</string>
+</resources>
